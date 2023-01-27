@@ -1,6 +1,6 @@
-create database Game;
+create database game;
 
-use database Game; 
+use game;
 
 create table cliente (id int NOT NULL AUTO_INCREMENT,
                      nombre varchar(25), 
